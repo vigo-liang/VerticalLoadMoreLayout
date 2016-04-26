@@ -2,5 +2,9 @@
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

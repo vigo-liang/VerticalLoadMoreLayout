@@ -1,15 +1,31 @@
 [
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head.jpg",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\head.jpg"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img001.jpg",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\img001.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head.jpg",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\head.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
@@ -20,20 +36,16 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture04.jpg",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\capture04.jpg"
+    },
+    {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img001.jpg",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\img001.jpg"
-    },
-    {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qq.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\qq.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture03.jpg",
@@ -44,8 +56,8 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
@@ -60,12 +72,68 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\capture04.jpg"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goods_introduction.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\goods_introduction.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head.jpg",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\head.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_button.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\share_button.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img001.jpg",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\img001.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qq.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\qq.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture03.jpg",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\capture03.jpg"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
@@ -76,6 +144,50 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alpha_circle.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\alpha_circle.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\love.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\love.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -84,20 +196,32 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alpha_circle.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\alpha_circle.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comment.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\comment.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture02.jpeg",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\capture02.jpeg"
+    },
+    {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comment.png",
@@ -108,52 +232,48 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
@@ -164,8 +284,76 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\love.png"
     },
     {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\official.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\official.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture01.jpeg",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\capture01.jpeg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\official.png",
@@ -176,8 +364,20 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\goods_introduction.png"
     },
     {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture01.jpeg",
@@ -196,20 +396,64 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture02.jpeg",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\capture02.jpeg"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alpha_circle.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\alpha_circle.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_button.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\share_button.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qq.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\src\\main\\res\\drawable-hdpi\\qq.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_button.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\src\\main\\res\\drawable-hdpi\\share_button.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
@@ -224,23 +468,23 @@
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioProject\\VerticalLoadMoreLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
         "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
         "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "E:\\AndroidStudioProject\\verticalSlide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
     }
 ]
