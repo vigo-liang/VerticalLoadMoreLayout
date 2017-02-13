@@ -6,4 +6,4 @@
 
 谢谢原创！如有侵权请谅解。
 
-https://github.com/LiangJianWei/VerticalLoadMoreLayout/blob/master/VerticalLoadMoreLayout.gif
+![image](https://github.com/LiangJianWei/VerticalLoadMoreLayout/blob/master/VerticalLoadMoreLayout.gif)
