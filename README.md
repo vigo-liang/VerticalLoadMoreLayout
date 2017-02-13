@@ -5,3 +5,5 @@
 该项目参考了：https://github.com/xmuSistone/android-vertical-slide-view 喜欢原作的可以去使用。
 
 谢谢原创！如有侵权请谅解。
+
+https://github.com/LiangJianWei/VerticalLoadMoreLayout/blob/master/VerticalLoadMoreLayout.gif
